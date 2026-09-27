@@ -97,4 +97,8 @@ MySQL Server 8.0+
 pip
 
 Git
+<img width="517" height="447" alt="image" src="https://github.com/user-attachments/assets/1e335c29-0d33-4038-838e-7aa2b8a61ea7" />
+<img width="628" height="825" alt="image" src="https://github.com/user-attachments/assets/f5ddeda7-7839-48c7-b846-7623c485a08c" />
+<img width="712" height="887" alt="image" src="https://github.com/user-attachments/assets/60f734c4-88d2-46c9-8977-48a3d9b7ba45" />
+
 
